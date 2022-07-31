@@ -1,8 +1,8 @@
-pikhyle.net\blashonde:savannah
-pikhyle.net\cdesdemona:summer
-pikhyle.net\eabert:amores
-pikhyle.net\eelspet:151515
-pikhyle.net\jrugen:money1
-pikhyle.net\mmckay:torres
-pikhyle.net\pgrishilde:dakota
-pikhyle.net\pkrock:fuckyou2
+blashonde:savannah
+cdesdemona:summer
+eabert:amores
+eelspet:151515
+jrugen:money1
+mmckay:torres
+pgrishilde:dakota
+pkrock:fuckyou2
